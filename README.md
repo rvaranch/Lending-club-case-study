@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* key factors
+* [key factors]
 * [Technologies Used](#technologies-used)
 * [Contact](#conclusions)
 * [Acknowledgements](#acknowledgements)
