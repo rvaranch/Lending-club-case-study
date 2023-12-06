@@ -4,45 +4,45 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* key factors
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Contact](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Our primary focus is to identify potential risks, develop insights to mitigate them, and ultimately safeguard the financial stability of the company. We'll examine the lending landscape, assess inherent risks, and propose proactive measures to minimize the loss of money
+- We have identified the risk of the real world problem loan defaulters for a lending company using the exploratory data analysis
+- In this case study,  we have applied the techniques of EDA,  and developed a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
+- We have analyzed the loan data of the customers who fully paid and charged off and compared the statistics![image](https://github.com/rvaranch/Lending-club-case-study/assets/55658792/930e2814-67c5-447b-81a9-5779344639e3)
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Below are the key factors of defaulters:
+- Having home ownership as RENT, MORTAGAGE
+- Most of the defaulters are from state CA, FL, NY
+- Employee work experience is 10+ years
+- Purpose of loan is to clear other debts and small business
+- Defaulters loan amount is high compared to Fully paid customers
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+  
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rvaranch] - feel free to contact me!
 
 
 <!-- Optional -->
