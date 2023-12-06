@@ -3,11 +3,11 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [key factors]
-* [Technologies Used](#technologies-used)
-* [Contact](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* General Info
+* Key factors
+* Technologies Used
+* Contact
+* Acknowledgements
 
 <!-- You can include any other section that is pertinent to your problem -->
 
